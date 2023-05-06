@@ -2,12 +2,12 @@ body{
     background-color: rgba(19, 19, 19, 0.7);
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(/Assets/Copa.png);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 500px;
     background-position: top;
 }
 
 h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
     margin-top: 0%; 
     color: #ffffff;
@@ -28,7 +28,7 @@ nav{
 
 .caja_contenedora{
     width: 780px;
-    height: 740px;
+    height: 420px;
     background-color: rgba(26, 26, 26, 0.9);
     border-radius: 1rem;
     margin-left: auto;
@@ -38,16 +38,17 @@ nav{
 h2{
    text-align: center;
    margin-top: 0%;
-   font-size: 3rem;
+   font-size: 2rem;
    color: #D4AF37;
    text-shadow: 2px 2px black;
 }
 
 section{
-    margin-top: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 li{
-    font-size: 2rem;
+    font-size: 1rem;
     color: aliceblue;
 }
