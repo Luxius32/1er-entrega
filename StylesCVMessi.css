@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(2, 137, 248, 0.3);
+}
+
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.enlaces{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    text-align: center;
+}
